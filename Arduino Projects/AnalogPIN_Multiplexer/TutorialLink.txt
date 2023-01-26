@@ -1,0 +1,1 @@
+https://solarduino.com/increase-analog-pins-for-nodemcu-using-16-channel-analog-multiplexer-module/
